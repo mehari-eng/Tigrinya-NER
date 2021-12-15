@@ -1,1 +1,1 @@
-# tig-roberta
+# Tigrinya NER
