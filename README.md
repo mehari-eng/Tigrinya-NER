@@ -6,7 +6,7 @@ Tigrinya Named Entity Recognition dataset contains around 110,000 tokens with fi
 
 
  
-
+ 
 If you make use of this dataset, please cite:
 
 @article{yohannes2022method,
