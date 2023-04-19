@@ -1,3 +1,2 @@
-Tigrinya Named Entity Recognition dataset is the first publicly available dataset which contains 69,309 tokens.
-the dataset contains five entity tags (PER, LOC, ORG, DATE and MISC)
-we will release the dataset soon..
+Tigrinya Named Entity Recognition dataset is the first publicly available dataset which contains around 110,000 tokens with five entity tags (PER, LOC, ORG, DATE and MISC).
+
